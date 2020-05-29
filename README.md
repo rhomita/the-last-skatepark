@@ -1,5 +1,5 @@
 # The last skatepark
-Game made in 48 hours for a [Game Jam](https://itch.io/jam/chip-n-jam)
+Game made for a 48 hours [Game Jam](https://itch.io/jam/chip-n-jam)
 
 Game submission: https://itch.io/jam/chip-n-jam/rate/646778
 
